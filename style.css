@@ -1,0 +1,15 @@
+body{
+    background: linear-gradient(45deg, rgba(37, 0, 64, 1) 0%, rgba(67, 88, 116, 1) 100%);
+}
+.card{
+    height: 100%;
+}
+.title{
+    font-size: 35px;
+}
+.text{
+    font-size: 30px;
+}
+.sub-text{
+    font-size: 20px;
+}
